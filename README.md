@@ -10,9 +10,10 @@ A basic login logics made with passportJS tested with Postman
 6. <a href="https://yarnpkg.com/package?q=sequelize&name=sequelize">Sequelize</a>
 7. <a href="https://yarnpkg.com/package?q=dotenv&name=dotenv">Dotenv</a>
 8. <a href="https://yarnpkg.com/package?q=Nodemon&name=nodemon">Nodemon</a>
-9. <a href="https://yarnpkg.com/package?q=passport&name=passport">Passport Js</a>
-https://yarnpkg.com/package?q=ejs&name=ejs
-https://yarnpkg.com/package?q=passport%20local&name=passport-local
+9. <a href="https://yarnpkg.com/package?q=ejs&name=ejs">EJS</a>
+10. <a href="https://yarnpkg.com/package?q=passport%20local&name=passport-local">Passport Local</a>
+11. <a href="https://yarnpkg.com/package?q=express%20ejs%20la&name=express-ejs-layouts">Express EJS Layout</a>
+
 
 
 
