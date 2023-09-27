@@ -8,7 +8,7 @@ const DB_PASSWORD = process.env.DB_PASSWORD
 
 const sequel = new Sequelize(DB_NAME,DB_USER,DB_PASSWORD,{
     host:DB_HOST
-,    dialect:'mssql'
+,    dialect:"mysql"
 })
 
 module.exports = sequel
